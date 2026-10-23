@@ -24,7 +24,7 @@ public class ArrayTest02 {
 		System.out.println(tot);
 		
 		// ----------------------------
-		// 2차원 배열 연습
+		// 2차원 배열 연습 
 		
 		
 		
