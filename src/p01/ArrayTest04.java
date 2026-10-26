@@ -12,10 +12,14 @@ public class ArrayTest04 {
 					
 	}
 
-	Private static void group(String[] grp)
-	for (int i = 0; i < grp.length, i++) {
+	private static void group(String[] grp) {
+		
+	for (int i = 0; i < grp.length; i++) {
 		System.out.println(grp[i]);
 		
-	};
+	}
+	
+	}
+
 	
 }
